@@ -1,6 +1,7 @@
 <p style="text-align: center;">Creating custom URL shortener With Python</p>
 <p style="text-align: center;">Built with ❤︎</p>
 
+<section>
 Technologies
 Back end
 * flask 
@@ -9,5 +10,5 @@ Back end
 
 Front end
 * Streamlit
-
+</section>
 
