@@ -1,6 +1,13 @@
-# custom-url-shortner
-
-you can try my custom url shortner 👇
-
-https://share.streamlit.io/yashsehgal02/url-short-streamlit/main/main.py
-
+    <p style="text-align: center;">Creating custom URL shortener With Python</p>
+    <p style="text-align: center;">Built with ❤︎</p>
+    
+    Technologies
+    Back end
+    * flask 
+    * gviz
+    * google app script
+    
+    Front end
+    * Streamlit
+    
+    
