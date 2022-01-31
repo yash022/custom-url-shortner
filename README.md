@@ -23,3 +23,8 @@ Building a custom URL shortening service like goo.gl using Python and Google App
 
 ## Getting Started
 
+
+
+## Credits
+
+Written by [Yash Sehgal](https://yashsehgal.tech/) 
