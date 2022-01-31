@@ -1,14 +1,23 @@
-<p style="text-align: center;">Creating custom URL shortener With Python</p>
-<p style="text-align: center;">Built with ❤︎</p>
+<h1 align="center">
+  URL-Shortner
+</h1>
 
-<section>
-Technologies
-Back end
-* flask 
-* gviz
-* google app script
+<h4 align="center">Creating custom URL shortener With Python</h4>
+<div align="center">
+  <sub>Built with ❤︎</sub>
+</div>
 
-Front end
-* Streamlit
-</section>
+</br>
+Building a custom URL shortening service like goo.gl using Python and Google App Script
+
+
+## Technologies
+
+- ### Back end
+  - Flask
+  - Google App Script
+  - Gviz
+  
+- ### Front end
+  - Streamlit
 
